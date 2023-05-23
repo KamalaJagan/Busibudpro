@@ -223,6 +223,31 @@ a{
     margin: 20vh;
     z-index: 1;
  } */
+ .fier{
+    height: 8vh;
+    width: 35vh;
+ }
+ 
+ .form{
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 8vh;
+    margin-bottom: 15vh;
+ }
+ .form1{
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 5vh;
+ }
+ .form2{
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 12vh;
+ }
+ .on{
+    display: flex;
+    justify-content: space-between;
+ }
  /*------------------------------------------------------
  Forth page start
  --------------------------------------------------------- */
