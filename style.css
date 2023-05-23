@@ -238,14 +238,18 @@ a{
     font-size: 14px;
     font-weight: 600;
     margin-left: 5vh;
+    margin-bottom: 15vh;
  }
+ 
  .form2{
     font-size: 14px;
     font-weight: 600;
+    margin-bottom: 15vh;
     margin-left: 12vh;
  }
  .on{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
  }
  /*------------------------------------------------------
